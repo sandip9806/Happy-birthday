@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Happy Birthday!</title>
+  <style>
+    body {
+      background-color: #ffe6f0;
+      text-align: center;
+      padding: 50px;
+      font-family: 'Arial', sans-serif;
+    }
+    h1 {
+      font-size: 50px;
+      color: #ff3399;
+    }
+    p {
+      font-size: 24px;
+      color: #333;
+    }
+    .confetti {
+      font-size: 40px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Happy Birthday, My Love!</h1>
+  <p>Wishing you a day filled with love, laughter, and happiness.</p>
+  <div class="confetti">🎉🎈🎊</div>
+</body>
+</html>
